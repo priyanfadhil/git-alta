@@ -1,5 +1,6 @@
 Rangkuman
 
+Section 1
 1. Git merupakan sarana yang digunakan web developer untuk dapat berkolaborasi satu sama lain, 
 git bersifat distributed yang berarti apabila server nya mengalami gangguan/kendala developer
 masih bisa melakukan aktivitas nya pada repo lokal masing masing
@@ -16,3 +17,15 @@ branch nya masing masing sebelum menggabungkan pada branch main/master. untuk me
 git branch <nama branch>, untuk berpindah dari branch main ke branch baru dapat menggunakan perintah 
 git checkout <nama branch>, untuk menggabungkan antar brach dapat menggunakan perintah git merge <nama branch>,
 apabila terjadi konflik dapat diselesaikan pada code editor untuk menentukan mana yang akan diterima.
+
+
+Section 2
+1. algoritma adalah sebuah prosedur komputasi yang didefinisikan dengan baik yang biasanya mengambil
+beberapa nilai sebagai input dan menghasilkan beberapa nilai sebagai output
+
+2. 3 karakteristik algoritma yaitu, yang pertama algoritma memiliki sebuah batas yaitu awal dan akhir,
+yang kedua instruksi terdefinisikan dengan baik, yang ketiga memiliki karakteristik efektif dan efisien
+
+3. konsep dasar algoritma yaitu sequential(urutan), branching(percabangan), dan looping(perulangan).
+terdapat beberapa cara untuk merepresentasikan sebuah algoritma yaitu bisa menggunakan pseudocode atau
+bisa menggunakan flowchart
