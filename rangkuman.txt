@@ -1,6 +1,6 @@
 Rangkuman
 
-Section 1
+Section 2
 1. Git merupakan sarana yang digunakan web developer untuk dapat berkolaborasi satu sama lain, 
 git bersifat distributed yang berarti apabila server nya mengalami gangguan/kendala developer
 masih bisa melakukan aktivitas nya pada repo lokal masing masing
@@ -19,7 +19,7 @@ git checkout <nama branch>, untuk menggabungkan antar brach dapat menggunakan pe
 apabila terjadi konflik dapat diselesaikan pada code editor untuk menentukan mana yang akan diterima.
 
 
-Section 2
+Section 3
 1. algoritma adalah sebuah prosedur komputasi yang didefinisikan dengan baik yang biasanya mengambil
 beberapa nilai sebagai input dan menghasilkan beberapa nilai sebagai output
 
